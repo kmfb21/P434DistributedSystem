@@ -1,0 +1,2 @@
+export MPJ_HOME=/Users/bofang/Desktop/CSCI-P434/mpj-v0_38 
+export PATH=$PATH:$MPJ_HOME/bin

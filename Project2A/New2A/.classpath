@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/daemon.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/loader1.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/loader2.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/mpi.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/mpiExp.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/mpj.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/mpjbuf.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/mpjdev.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/mxdev.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/niodev.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/smpdev.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/starter.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/test.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/tools.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/wrapper.jar"/>
+	<classpathentry kind="lib" path="/Users/bofang/Desktop/CSCI-P434/mpj-v0_38/lib/xdev.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
