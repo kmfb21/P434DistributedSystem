@@ -1,0 +1,27 @@
+#Shaowen Ren(shaoren)
+#Bo Fang(bofang)
+
+#Introduction of MPIPageRank
+
+There are four files in the project 2a folder:
+	1, MPIPageRank.java
+		This is the source code of this project.
+	2, MPIPageRank.class
+		This is the class file from the successful compiling of MPIPageRank.java
+	3, pagerank.input.1000.0
+		This is the file containing 1000 URLs that will be used to calculate the pagerank.
+	4, output.txt
+		This is the output file that containing the sorted result of MPIPageRank for the pagerank.input.1000.0
+		(When excuting, it will appear the top 10 pagerank in the commandline. but store all the rank in this txt file.)
+
+
+#MPIPageRank.java
+	There are sixe methods in this class
+	1, parseArgs (mostly same as sequentialpagerank.java, added "delta" parameter)
+	2, loadInput (exactely same as sequentialpagerank.java)
+	3, printValues (mostly same as sequentialpagerank.java)
+	4, getstartpoint (associate with mpi method, calculate each start index for each process)
+	5, mpi (main idea is the similar with sequentialpagerank.java, but allocate URLs to each processes by MPI. Added delta judgment at the end of the iteration loop)
+	6, main (invoke mpi)
+
+
